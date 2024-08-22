@@ -1,5 +1,10 @@
-# 💫 About Me:
-👋 Hi, I'm Aayush Gautam, a passionate Full-Stack Developer with a knack for crafting dynamic and user-centric web applications. I thrive on solving complex problems and bringing creative ideas to life through code. My journey in development has fueled a deep appreciation for both the front-end and back-end, and I'm always excited to learn new technologies and refine my skills.<br><br>💻 I'm proficient in:<br>- Frontend: React.js, Next.js, React Native, Tailwind CSS<br>- Backend: Node.js, Firebase, Express.js<br>- Databases: Firestore, MongoDB<br>- Tools: Git, GitHub, VSCode<br><br>Feel free to check out my repositories and connect with me on any of the provided socials
+# About Me:
+👾 I'm a sophomore pursuing my BTech. in Computer Science and Engineering ! <br>
+🔭 I’m currently working on my Backend Skills ! <br>
+👯 I’m open to collaborate on Full Stack projects ! <br>
+🤝 I’m currently exploring App Developement ! <br>
+🌱 I’m currently strengthening Backend Development and App dev skills ! <br>
+💬 Ask me about Full-Stack Development !<br><br>💻 I'm proficient in:<br>- Frontend: React.js, Next.js, React Native, Tailwind CSS<br>- Backend: Node.js, Firebase, Express.js<br>- Databases: Firestore, MongoDB<br>- Tools: Git, GitHub, VSCode<br><br>Feel free to check out my repositories and connect with me on any of the provided socials
 
 
 ## 🌐 Socials:
