@@ -4,7 +4,7 @@
 👯 I’m open to collaborate on Full Stack projects ! <br>
 🤝 I’m currently exploring App Developement ! <br>
 🌱 I’m currently strengthening Backend Development and App dev skills ! <br>
-💬 Ask me about Full-Stack Development !<br><br>💻 I'm proficient in:<br>- Frontend: React.js, Next.js, React Native, Tailwind CSS, Framer<br>- Backend: Node.js, Firebase, Express.js<br>- Databases: Firestore, MongoDB<br>- Tools: Git, GitHub, VSCode<br><br>Feel free to check out my repositories and connect with me on any of the provided socials
+💬 Ask me about Full-Stack Development !<br><br>💻 I'm proficient in:<br>- Frontend: React.js, Next.js, React Native, Tailwind CSS, Framer<br>- Backend: Node.js, Firebase, Express.js<br>- Databases: Firestore, MongoDB<br>- Tools: Git, GitHub, VSCode, Blender, Unity<br><br>Feel free to check out my repositories and connect with me on any of the provided socials
 
 
 ## 🌐 Socials:
